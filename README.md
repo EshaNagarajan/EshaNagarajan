@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EshaNagarajan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+
 
 <!---
 EshaNagarajan/EshaNagarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
